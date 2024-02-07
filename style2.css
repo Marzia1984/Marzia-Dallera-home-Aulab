@@ -1,0 +1,41 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+h2{
+    color:rgba(237, 14, 36, 0.679);
+}
+
+.link{
+    background:linear-gradient(90deg,rgb(238, 181, 236),rgba(234, 8, 128, 0.933));
+    color:rgb(24, 27, 28);
+    align-items: center;
+    background-position: center;
+    width: 180px;
+    border-radius: 10px;
+}
+
+h2{
+    color:blueviolet;
+    
+    
+}
+
+h4{
+    color:rgb(129, 9, 49);
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+    
+}
+
+
+h3{
+    color: rgb(227, 23, 108);
+  
+    
+}
+
